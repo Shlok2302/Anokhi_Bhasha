@@ -10,12 +10,6 @@ The project is designed to reduce communication barriers between deaf and hearin
 
 ## 📌 Project Overview
 
-- **Problem Statement:** Indian Sign Language to Text/Speech Translation
-- **Problem Statement ID:** SIH1716
-- **SIH Team:** TheTech Titans
-- **Team ID:** 8916
-- **Theme:** Miscellaneous
-- **Category:** Software
 
 ### The proposed system focuses on:
 
